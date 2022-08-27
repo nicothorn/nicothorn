@@ -6,7 +6,7 @@ Now as an adult, I'm brushing up on the more recent developments with HTML and C
 
 ## 🌱 I’m currently learning
 
-You can see my roadmap and progress in learning front-end and back-end developement at my [learning-to-code GitHub project](https://github.com/users/nicothorn/projects/1).
+You can see my roadmap and progress in learning front-end and back-end development at my [learning-to-code GitHub project](https://github.com/users/nicothorn/projects/1).
 
 <!--
 **nicothorn/nicothorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
